@@ -22,9 +22,7 @@ CSS
 
 JavaScript
 
-🚀 Getting Started
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+
 
 
 Open the project in your browser or run it using your preferred development server.
